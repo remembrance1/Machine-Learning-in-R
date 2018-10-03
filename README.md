@@ -67,9 +67,4 @@ A list of useful resources for learning about machine learning with an emphasis 
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [A collection of microarray data](https://github.com/ramhiser/datamicroarray) by John Ramey
 
-## Others
-
-* Tom Mitchell's [home page](http://www.cs.cmu.edu/~tom/)
-* [My notes on Random Forests](https://github.com/davetang/learning_random_forest)
-* [No Free Lunch Theorems](http://www.no-free-lunch.org/)
 
