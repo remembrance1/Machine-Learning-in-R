@@ -1,22 +1,7 @@
-Machine learning
+Machine learning in R
 ================
 
-_Machine Learning is the study of computer algorithms that improve automatically through experience. --Tom Mitchell_
-
-# A brief history of machine learning
-
-Adapted from the section 1.2 of the book "Deep Learning with R".
-
-* Probabilistic modelling was one of the earliest forms of machine learning, where the principles of statistics were applied to data analysis
-* The Naive Bayes algorithm is one of the best known methods for carrying out probabilistic modelling
-* Logistic regression is an algorithm with roots that date back to the early 19th century
-* The core ideas of neural networks were investigated back in the 1950s
-* In the 1970s, the backpropagation algorithm was originally introduced
-* Kernel methods, especially Support Vector Machines (SVMs), become popular in the 90s
-* Decision trees [date back in the 1960s](http://washstat.org/presentations/20150604/loh_slides.pdf)
-* The first algorithm for random decision trees was created in 1995 and an extension of the algorithm, called Random Forests, was created in 2001
-* Gradient boosting is a machine-learning technique based on ensembling weak prediction models, generally decision trees, which originated in 1997
-* In 2012, the SuperVision team led by Alex Krizhevsky and advised by Geoffrey Hinton was able to achieve a top-five accuracy of [83.6% on the ImageNet challenge](http://www.image-net.org/challenges/LSVRC/2012/results.html)
+Collection of Machine Learning algorithms in R.
 
 # Resources
 
